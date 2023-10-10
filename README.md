@@ -1,1 +1,93 @@
-# cv
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>kolawole Personal Sites</title>
+<style>
+ img {border-radius: 50%;}
+</style>
+</head>
+<body>
+<table cellspacing="20">
+     <tr>
+          <td><img src="seyi.JPG" style="width: 100px;"></td>
+          <td><h1>KOLAWOLE SEYI </h1>
+<p><i>Founder and CEO OF THIS WEBSITE</i></p> 
+<strong><a href="https://ww.appbrewery.co/">The App Brewery</a></strong>
+<p>I am an i0S and Web Developer. I coffee and brew my own beers.</p></td>
+     </tr>
+</table>
+<hr>
+<h3>Books and Teaching</h3>
+<ul>
+<li>The Complete i0S App Development Bootcamp</Li> 
+<li>The Complete Web Development Bootcamp</li>
+</ul>
+<table border="1px">
+     <thead>
+          <tr>
+               <th>DATE</th>
+               <th>WORK</th>
+          </tr>
+     </thead>
+<tbody><tr>
+     <td>
+          2006-20012
+     </td>
+     <td>
+          desolat prudent academy 
+     </td>
+</tr>
+<tr>
+     <td>
+          2012-2018
+     </td>
+     <td>
+          wise virgin college 
+     </td>
+</tr>
+</tbody>
+</table>
+<H3>SKILLS</H3>
+ <table>
+       <tr>
+     <td>
+     PHOTOGRAPHY
+     </td>
+     <td>
+          ⭐⭐⭐⭐ 
+     </td>
+</tr>
+
+<tr>
+     <td>
+     WEBSITE DESIGN 
+     </td>
+     <td>
+     ⭐⭐⭐
+     </td>
+</tr>
+<tr>
+     <td>
+     MICROSOFT EXCEL 
+     </td>
+     <td>
+     ⭐⭐⭐
+     </td>
+</tr>
+<tr>
+     <td>
+     CSS
+     </td>
+     <td>
+     ⭐⭐
+     </td>
+</tr>
+</table>
+<hr>
+<a href="hobbies.html">My Hobbies</a> 
+<a href="contact-me.html">Contact Me</a>
+</body>
+
+</html>
